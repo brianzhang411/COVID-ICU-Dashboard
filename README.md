@@ -1,4 +1,4 @@
-# HexCambridge - Hackathon 
+# HexCambridge - Hackathon
 
 ## For the React app:
 
@@ -36,3 +36,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+# Web App Screenshots
+
+![](rd_imgs/img_1.png)
+![](rd_imgs/img_2.png)
