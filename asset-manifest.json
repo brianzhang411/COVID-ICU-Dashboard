@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/css/main.62917acd.chunk.css",
+    "main.js": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/main.894d1bd7.chunk.js",
+    "main.js.map": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/main.894d1bd7.chunk.js.map",
+    "runtime-main.js": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/runtime-main.9a9bf75a.js",
+    "runtime-main.js.map": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/runtime-main.9a9bf75a.js.map",
+    "static/js/2.08e794ad.chunk.js": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/2.08e794ad.chunk.js",
+    "static/js/2.08e794ad.chunk.js.map": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/2.08e794ad.chunk.js.map",
+    "static/js/3.8459c530.chunk.js": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/3.8459c530.chunk.js",
+    "static/js/3.8459c530.chunk.js.map": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/3.8459c530.chunk.js.map",
+    "index.html": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/index.html",
+    "static/css/main.62917acd.chunk.css.map": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/css/main.62917acd.chunk.css.map",
+    "static/js/2.08e794ad.chunk.js.LICENSE.txt": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/js/2.08e794ad.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/%E2%80%9Chttp://rishikzap.github.io/Hex-Frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9bf75a.js",
+    "static/js/2.08e794ad.chunk.js",
+    "static/css/main.62917acd.chunk.css",
+    "static/js/main.894d1bd7.chunk.js"
+  ]
+}
